@@ -1,6 +1,6 @@
 # Netfilx_home_page_clone
 
-Live link =>>  https://netflix-home-page-clone.netlify.app
+Live link =>> https://homepageclone-netflix.netlify.app/
 
 
 Project: Netflix Homepage Clone
